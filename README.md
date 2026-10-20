@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="piyushmewar0012's GitHub profile" src="dark_mode.svg" />
 </picture>
-<h1 align="center">Hi 👋, I'm Piyush Mewar</h1>
+<h1 align="center">Hi 👋, I'm Piyush </h1>
 <h3 align="center">A frontend developer</h3>
 
 - 🌱 I’m currently learning **react**
